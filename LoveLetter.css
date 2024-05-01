@@ -69,7 +69,7 @@
   .envelope > .letter > .text {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: var(--txt-color);
-    text-align: left;
+    text-align: center;
     font-size: 9.5px;
   }
 
